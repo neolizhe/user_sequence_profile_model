@@ -24,9 +24,11 @@ use user APP events to model its behavior and predict
         - 认知水平差异
       - 行为序列：相同个体认知差异、重要度敏感度可随时间缓慢演进，假设个体差异的演进不会发生突变。
       - 决策心理归因模型
-[图片]![img.png](img.png)
+![image](https://github.com/neolizhe/user_sequence_profile_model/assets/89385155/793b3686-69cb-4c7a-b922-f85310b0d8d5)
+
     - 决策系统模型
       - 动态演进，RNN or Reinforce Learning
-[图片]![img_1.png](img_1.png)
+![image](https://github.com/neolizhe/user_sequence_profile_model/assets/89385155/89c0f56b-f9a1-49a3-9a69-ce2257f9ed52)
+
 - 根据行为金融学的理论分析结果，得到投资者衡量的 若干心理学维度，根据这些维度定义指标，进而刻画用户。
 
